@@ -21,8 +21,17 @@ h1 {
   text-align:center;
 }
 
+p {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 40px;
+} 
+
 li {
   font-size: 30px;
+  padding: 10px;
 }
 
 ul {
